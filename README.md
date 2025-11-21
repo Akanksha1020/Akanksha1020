@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Akanksha1020
-- 👀 I’m interested in web devlopment.
-- 🌱 I’m currently learning html,css,java script,bootstrap.
-- 💞️ I’m looking to collaborate on relative projects.
+-👋 Hi, I'm Akanksha
+🚀 MERN Stack Developer
+
+💻 Passionate about building scalable and user-friendly web applications.
+🌱 Always learning & improving in MongoDB, Express.js, React.js, Node.js.
+🤝 I love collaborating on exciting projects and solving real-world problems.
 - 📫 How to reach me .. you can contect on akanksha.panchal.14@gmail.com
 
 <!---
